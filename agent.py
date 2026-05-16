@@ -20,11 +20,11 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 # ─────────────────────────────────────────────
 # CONFIGURATION — Fill in your details
 # ─────────────────────────────────────────────
-API_KEY = "2BDTU3P5-MGJXMCCL-F7WRE9OX-U3YGDAIB-OC12IR0J"
-API_SECRET = "fc0415c88e4fac6758beecef55dc917a00a9e6c72e24fdd63928b5b007e2edd59e1cbd1bae9e39d7"
+API_KEY = ""
+API_SECRET = ""
 
-TELEGRAM_TOKEN = "8759641563:AAEziZUna1jJ_mNtWY874odsYp14zOVVWRI"
-TELEGRAM_CHAT_ID = "7629130514"
+TELEGRAM_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 PAIRS = ["BTC/IDR", "ETH/IDR", "SOL/IDR", "XRP/IDR", "ADA/IDR"]
 
